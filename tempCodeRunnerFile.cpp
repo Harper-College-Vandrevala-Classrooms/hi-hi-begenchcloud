@@ -1,0 +1,1 @@
+    // assert(strcmp_case_insensitive(5, "My Cool String", "MyCoolString") == 0);
